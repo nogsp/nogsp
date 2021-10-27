@@ -1,8 +1,8 @@
 ## Olá!!! Sou Pedro Nogueira
 <div align="center">
   <a href="https://github.com/nogsp">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nogsp&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nogsp&layout=compact&langs_count=7&theme=radical"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nogsp&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nogsp&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
   
 <div style="display: inline_block"><br>
